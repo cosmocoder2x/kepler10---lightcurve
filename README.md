@@ -3,11 +3,11 @@ Light curve data analysis of kepler-10 using python..
 
 # Kepler-10 Light Curve Analysis
 
-🪐 This project analyzes the light curve data of Kepler-10 to identify potential transits or stellar behavior.
+🪐 This project analyzes the light curve data of Kepler-10 using Python.
+🤖 Worked on with the assistance of AI (Coco - ChatGPT), exploring Python for data analysis.
 
-🔭 Data sourced from NASA's Kepler Mission  
-📈 Plotted using Python (matplotlib, pandas, etc.)
+Data sourced from NASA's Kepler Mission  
+📊 Visualizations using `matplotlib` 
 
-Future goal: detect exoplanet-like dips 👽
+Still learning, stay tuned for future improvements!
 
-Still learning, stay tuned for upgrades!
